@@ -1,0 +1,96 @@
+h1{
+    color: white;
+    background-color: blue;
+    border: 5px;
+    border-radius: 5px;
+    display: inline-block;
+}
+body{
+    background-color: black;
+    margin: 0px;
+    padding: 0px;
+    width: 500px;
+    height: 1000px;
+    border-radius: 10px;
+    border: 5px;
+}
+p{
+    padding-right: 20px;
+}
+section{
+    background-color: rgb(115, 41, 158);
+    color: aqua;
+    border: 20PX;
+    border-radius: 20PX;
+    display: block;
+    width: 1600px;
+    height: 800px;
+}
+strong{
+    color: red;
+}
+li{
+    border: 10px;
+    color: aqua;
+}
+section div h1{
+    color: aqua;
+    border: 20px;
+    border-radius: 20px;
+    display: inline-block;
+    background-color: rgb(115, 41, 158);
+    padding-right: 20px;
+}
+div p{
+    color: aqua;
+    border: 20PX;
+    border-radius: 20PX;
+    display:600px;
+    height: 100px;
+    background-color: rgb(115, 41, 158);
+    padding-right: 20px;
+}
+nav ul{
+    background-color: red;
+}
+nav p{
+    background-color: rgb(115, 41, 158);
+    color: aqua;
+}
+
+.align-right{
+    text-align: right;
+}
+.image-size{
+    width: 500px;
+    height: 400pxv;
+}
+.skillsBG{
+    background-image: url(https://th.bing.com/th/id/R.6212de0edfcfa19dc9d0ab1c2b7ccfee?rik=ft3WjZa1w4Ahow&riu=http%3a%2f%2fgetwallpapers.com%2fwallpaper%2ffull%2f7%2fd%2fc%2f15327.jpg&ehk=apgWS8cSuTBWAK%2b4St%2fPwFO05%2baUkcOL4DtcROqV7hc%3d&risl=&pid=ImgRaw&r=0);
+}
+.projectsBGColor{
+    background-color: rgb(115, 41, 158);
+    width: 500;
+    height: 100;
+}
+.projectsIMG{
+    width: 400px;
+    height: 700px;
+}
+.projectsBG{
+    background-image: url(https://getwallpapers.com/wallpaper/full/8/8/c/1354047-web-wallpaper-1920x1080-laptop.jpg);
+}
+.aboutmeBG{
+    background-image: url(https://i.pinimg.com/originals/21/4b/93/214b93ffbb6c8a4002e3507dcda38a52.jpg);
+}
+.border{
+    padding-left: 30;
+    padding-right: 30;
+    border: 20px;
+    border-radius: 20px;
+    display: inline-block;
+}
+.image-size{
+    max-width: 500;
+    max-height: 800;
+}
